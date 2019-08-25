@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAT</string>
+    <string name="nome">Nome</string>
+    <string name="endere_o">Endereço</string>
+    <string name="estado">Estado</string>
+    <string name="cidade">Cidade</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <dimen name="cadastro">40sp</dimen>
+</resources>
